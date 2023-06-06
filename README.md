@@ -33,7 +33,7 @@ To use the port scanner, run the following command:
   ```
 
   - `<hostname>` :The target host or IP address you want to scan.
-  - `<start_port-end_port>`: The range of ports you want to scan, separated by a hyphen.
+  - `<start_port-end_port>`: The range of ports you want to scan.
 
 For example:
 
