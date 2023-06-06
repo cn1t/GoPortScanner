@@ -1,6 +1,7 @@
 # Network Port Scanner
 
 This is a simple network port scanner written in Golang. It allows you to scan a range of ports on a given host or IP address and determine if they are open or closed.
+This is my first project using Golang.
 
 ## Installation
 
